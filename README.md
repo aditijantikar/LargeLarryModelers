@@ -1,6 +1,6 @@
-# Longitudinal Biomarker Analysis: A Data-Driven Pivot from Sparse to Dense Correlations
+# Variations in albumin concentration correspond to changes in hemoglobin, indicating a common underlying physiological regulation during chronic inflammation.
 
-This repository contains a graduate-level data science project analyzing a sparse, longitudinal biomarker dataset. The project documents an analytical journey from an initial, sparse-data hypothesis (Calprotectin vs. Hemoglobin) to a robust, data-dense finding: a significant concurrent correlation between Albumin and Hemoglobin.
+This repository contains a project analyzing a sparse, longitudinal biomarker dataset. The project documents an analytical journey from an initial, sparse-data hypothesis (Calprotectin vs. Hemoglobin) to a robust, data-dense finding: a significant concurrent correlation between Albumin and Hemoglobin.
 
 The analysis demonstrates methods for handling statistical artifacts, data sparsity, and biological confounders, culminating in a validated, significant finding.
 
